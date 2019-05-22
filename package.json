@@ -1,0 +1,27 @@
+{
+  "name": "node.js_e_http_desenvolvendo_uma_api_seguindo_o_estilo_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidNatanael/Node.js_e_HTTP_desenvolvendo_uma_API_seguindo_o_estilo_REST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidNatanael/Node.js_e_HTTP_desenvolvendo_uma_API_seguindo_o_estilo_REST/issues"
+  },
+  "homepage": "https://github.com/DavidNatanael/Node.js_e_HTTP_desenvolvendo_uma_API_seguindo_o_estilo_REST#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "mongoose": "^5.5.10",
+    "mongoose-paginate": "^5.0.3",
+    "nodemon": "^1.19.0",
+    "require-dir": "^1.2.0"
+  }
+}
